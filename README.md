@@ -11,11 +11,11 @@
 <li align="center"><a href="#Licenses">Licenses</a></li>
      
 <h2 align="center" id="Installation">Installation</h2>
-<p align="center">${installation}</p>
+<p align="center">N/A</p>
    
 <h2 align="center" id="Usage">Usage</h2>
 <p align="center">You can access my project, Note Recorder, by simply clicking on this highlighted text.</p>
-<p align="center"><a href="${usage}" target="_blank">Here</a></p>
+<p align="center"><a href="https://nameless-meadow-28770.herokuapp.com/" target="_blank">Here</a></p>
 
 <h2 align="center">Screenshots</h2>
 
